@@ -33,27 +33,6 @@ The app is built using **Kotlin**, **Jetpack Compose**, **Room Database**, and f
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-│   ├── Movie.kt              # Room entity
-│   ├── MovieDao.kt           # DAO interface
-│   └── MovieDatabase.kt      # Room database setup
-├── repository/
-│   └── MovieRepository.kt    # Repository logic
-├── viewmodel/
-│   └── MovieViewModel.kt     # ViewModel for UI logic
-├── ui/
-│   ├── AddMoviesScreen.kt
-│   ├── SearchMoviesScreen.kt
-│   ├── SearchByTitleScreen.kt
-│   └── SearchActorsScreen.kt
-├── MainActivity.kt
-└── README.md
-```
-
----
 
 ## 🏁 How to Run
 
@@ -76,11 +55,7 @@ cd movie-app
 
 ---
 
-## 📷 Screenshots
 
-(Add screenshots of your UI if required for submission)
-
----
 
 ## 📜 License
 
