@@ -47,7 +47,7 @@ cd movie-app
 
 3. **Run the app** on a device or emulator.
 
-4. (Optional) If OMDb API integration is included, add your API key:
+4. (Optional) If OMDb API integration is included, add your API key: (https://www.omdbapi.com/apikey.aspx)
    - In `local.properties`:
      ```
      omdbApiKey=YOUR_API_KEY
