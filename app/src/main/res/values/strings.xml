@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_activity_movie">Movie</string>
+    <string name="title_activity_movie_dao">MovieDao</string>
+    <string name="title_activity_movie_database">MovieDatabase</string>
+    <string name="title_activity_movie_repository">MovieRepository</string>
+    <string name="title_activity_movie_view_model">MovieViewModel</string>
+    <string name="title_activity_add_movies_screen">AddMoviesScreen</string>
+    <string name="title_activity_search_movies_screen">SearchMoviesScreen</string>
+    <string name="title_activity_search_actors_screen">SearchActorsScreen</string>
+    <string name="title_activity_search_by_title_screen">SearchByTitleScreen</string>
+</resources>
